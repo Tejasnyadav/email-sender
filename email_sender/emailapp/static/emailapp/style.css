@@ -1,0 +1,23 @@
+/* emailapp/static/emailapp/style.css */
+body {
+    background-color: #0f1010;
+}
+
+.navbar {
+    margin-bottom: 2rem;
+    
+}
+
+.container {
+    max-width: 600px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.btn-block {
+    width: 100%;
+}
